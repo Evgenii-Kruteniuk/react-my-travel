@@ -6,27 +6,37 @@
     { "name": "Абхазия" },
     { "name": "Крым" },
     { "name": "Сочи" },
-    { "name": "Лаго-наки" },
+    { "name": "Лаго-наки" }
   ],
   "collections": [
     {
-      "category": 2,
-      "name": "Поход в горы",
+      "category": 1,
+      "name": "Дубай",
       "photos": [
-        "https://images.unsplash.com/photo-1613310023042-ad79320c00ff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bW91bmF0aW5zfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-        "https://images.unsplash.com/photo-1612676239016-41e2c92b8e06?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8bW91bmF0aW5zfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-        "https://images.unsplash.com/photo-1610809027249-86c649feacd5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bW91bmF0aW5zfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-        "https://images.unsplash.com/photo-1621682372775-533449e550ed?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8bW91bmF0aW5zfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+        "https://cameralabs.org/media/camera/may/18may/38_a6a3f6efe73e737edfee80937fd74f7c.jpg",
+        "https://vsegda-pomnim.com/uploads/posts/2022-04/1649131201_60-vsegda-pomnim-com-p-dubai-priroda-foto-66.jpg",
+        "https://mobimg.b-cdn.net/v3/fetch/29/296a490012fd83860f0dc33842203d6c.jpeg?w=1470&r=0.5625",
+        "https://vsegda-pomnim.com/uploads/posts/2022-03/1648618319_19-vsegda-pomnim-com-p-iskusstvennie-ostrova-v-dubae-foto-26.jpg"
       ]
     },
     {
       "category": 1,
-      "name": "Море (июнь)",
+      "name": "Абу-Даби",
       "photos": [
-        "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fHNlYSUyMGFlc3RoZXRpY3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-        "https://images.unsplash.com/photo-1621335223658-0ebd89004d51?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8c2VhJTIwYWVzdGhldGljfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-        "https://images.unsplash.com/photo-1501436513145-30f24e19fcc8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHNlYSUyMGFlc3RoZXRpY3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-        "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8c2VhJTIwYWVzdGhldGljfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+        "https://i.travel.ru/images2/2011/12/object196708/img_3845.jpg",
+        "https://i.pinimg.com/originals/03/dd/64/03dd645bf281943c1015c8f022f08ea8.jpg",
+        "https://sportishka.com/uploads/posts/2022-04/1650675839_19-sportishka-com-p-emirat-abu-dabi-krasivo-foto-21.jpg",
+        "https://www.tourprom.ru/site_media/images/upload/2016/2/9/poiphoto/picture_4498_1.jpg"
+      ]
+    },
+    {
+      "category": 1,
+      "name": "Аль-Айн",
+      "photos": [
+        "https://image2.turizm.ru/country_gallery/148/770-300_1SoxkXEvF1OqnoXOeQdFRyoyu36wvqst.jpg?q=95",
+        "https://www.theclubcocktail.com/wp-content/uploads/2020/02/Mercure-Grand-Jebel-Hafeet-Al-Ain.jpg",
+        "https://img.rl0.ru/935afb45af7f41ffcecc57d2c630d532/c765x400i/https/store.rambler.ru/news/img/6cd2314035bf5a580fc6734292032514",
+        "https://wadeadams.com/wp-content/uploads/2015/11/AD-516-5-1.jpg"
       ]
     },
     {
@@ -80,14 +90,24 @@
       ]
     },
     {
-      "category": ,
-      "name": "Поход в горы",
+      "category": 6,
+      "name": "Природа",
       "photos": [
-        "https://images.unsplash.com/photo-1613310023042-ad79320c00ff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bW91bmF0aW5zfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-        "https://images.unsplash.com/photo-1612676239016-41e2c92b8e06?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8bW91bmF0aW5zfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-        "https://images.unsplash.com/photo-1610809027249-86c649feacd5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bW91bmF0aW5zfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-        "https://images.unsplash.com/photo-1621682372775-533449e550ed?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8bW91bmF0aW5zfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+        "https://sportishka.com/uploads/posts/2022-03/1647878275_1-sportishka-com-p-zapovednik-lago-naki-v-adigee-turizm-krasi-1.jpg",
+        "https://vsegda-pomnim.com/uploads/posts/2022-04/1650940216_22-vsegda-pomnim-com-p-lagonaki-gornaya-adigeya-foto-24.jpg",
+        "https://priroda.club/uploads/posts/2022-08/1660166081_27-priroda-club-p-plato-lago-naki-adigeya-krasivo-foto-27.jpg",
+        "https://a.d-cd.net/RcAAAgF2VOA-1920.jpg"
       ]
     },
+    {
+      "category": 6,
+      "name": "Горячие источники",
+      "photos": [
+        "https://vsegda-pomnim.com/uploads/posts/2022-04/1650938462_33-vsegda-pomnim-com-p-baza-otdikha-v-gorakh-foto-35.jpg",
+        "https://chydesa-mira.ru/wp-content/uploads/2021/01/termalnie-adygeya.jpg",
+        "https://goryachieistochniki.ru/wp-content/uploads/2020/01/4222124679073638_f98b.jpg",
+        "https://usadba-kv.ru/baza-otdyha-na-termalnyh-istochnikah.jpg"
+      ]
+    }
   ]
 }

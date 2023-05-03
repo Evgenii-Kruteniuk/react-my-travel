@@ -38,7 +38,7 @@ function App() {
     /*6. Для пагинации дописываем page=${page}&limit=3& что значит, что при переходе
     по страницам, мы установили лимит в 3 объекта на странице. Пропишем page также в массиве зависимостей*/
     fetch(
-      `https://6450c944e1f6f1bb229ee7bd.mockapi.io/collections_photos?page=${page}&limit=3&${
+      `https://6450c944e1f6f1bb229ee7bd.mockapi.io/collections_photos?page=${page}&limit=8&${
         categoryId ? `category=${categoryId}` : ""
       }`
     )
@@ -71,6 +71,8 @@ function App() {
             </li>
           ))}
         </ul>
+      </div>
+      <div className="wrapper-input">
         <input
           value={searchValue}
           onChange={(e) => setSearchValue(e.target.value)}
