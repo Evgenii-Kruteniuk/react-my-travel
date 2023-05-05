@@ -40,53 +40,83 @@
       ]
     },
     {
-      "category": 3,
-      "name": "Поездка в Европу",
+      "category": 2,
+      "name": "Тбилиси",
       "photos": [
-        "https://images.unsplash.com/photo-1610010252747-afeb906e2d55?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YXJjaGljdHVyZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-        "https://images.unsplash.com/photo-1630335856915-3987afdfdc9a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGFyY2hpY3R1cmV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "https://images.unsplash.com/photo-1609471374271-0d9b03da0998?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGFyY2hpY3R1cmV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "https://images.unsplash.com/photo-1613390792897-aa0c06a52332?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGFyY2hpY3R1cmV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
-      ]
-    },
-    {
-      "category": 3,
-      "name": "Идеальная архитектура",
-      "photos": [
-        "https://images.unsplash.com/photo-1616578738046-8d6bbb4ee28e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGFyY2hpY3R1cmV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "https://images.unsplash.com/photo-1538378918848-29dbc0910082?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YXJjaGljdHVyZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-        "https://images.unsplash.com/photo-1614159869126-0f06a742eecb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGFyY2hpY3R1cmV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "https://images.unsplash.com/photo-1618840739221-e3adb12c9bf1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjJ8fGFyY2hpY3R1cmV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
-      ]
-    },
-    {
-      "category": 3,
-      "name": "Красивые здания",
-      "photos": [
-        "https://images.unsplash.com/photo-1616578738046-8d6bbb4ee28e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGFyY2hpY3R1cmV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "https://images.unsplash.com/photo-1629774631753-88f827bf6447?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGFyY2hpY3R1cmV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "https://images.unsplash.com/photo-1609618486540-8b210e32fe79?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDJ8fGFyY2hpY3R1cmV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "https://images.unsplash.com/photo-1608507777998-7b4f2c269120?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTB8fGFyY2hpY3R1cmV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
-      ]
-    },
-    {
-      "category": 4,
-      "name": "Путешествие по миру",
-      "photos": [
-        "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGNpdHl8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "https://images.unsplash.com/photo-1560840067-ddcaeb7831d2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDB8fGNpdHl8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "https://images.unsplash.com/photo-1531219572328-a0171b4448a3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzl8fGNpdHl8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "https://images.unsplash.com/photo-1573108724029-4c46571d6490?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGNpdHl8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+        "https://sportishka.com/uploads/posts/2022-04/thumbs/1650490828_16-sportishka-com-p-gruziya-tbilisi-dostoprimechatelnosti-kras-16.jpg",
+        "https://sportishka.com/uploads/posts/2022-11/1667580216_4-sportishka-com-p-tbilisi-dostoprimechatelnosti-goroda-pinte-5.jpg",
+        "https://sportishka.com/uploads/posts/2022-04/1650490934_66-sportishka-com-p-gruziya-tbilisi-dostoprimechatelnosti-kras-68.jpg",
+        "https://праздничноеагентство.рф/mice/images/photo/gruz/14.jpg"
       ]
     },
     {
       "category": 2,
-      "name": "Путешествие куда-то",
+      "name": "Батуми",
       "photos": [
-        "https://images.unsplash.com/photo-1488646953014-85cb44e25828?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dHJhdmVsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-        "https://images.unsplash.com/photo-1507608616759-54f48f0af0ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8dHJhdmVsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-        "https://images.unsplash.com/photo-1527631746610-bca00a040d60?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHRyYXZlbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-        "https://images.unsplash.com/photo-1501785888041-af3ef285b470?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHRyYXZlbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+        "https://sportishka.com/uploads/posts/2022-02/1645560344_23-sportishka-com-p-batumi-naberezhnaya-turizm-krasivo-foto-29.jpg",
+        "https://img5.goodfon.ru/wallpaper/nbig/f/6c/konstantin-voronov-gruziia-gorod-batumi-doma-zdaniia-more-ve.jpg",
+        "https://sportishka.com/uploads/posts/2022-03/1646892916_1-sportishka-com-p-g-batumi-gruziya-turizm-krasivo-foto-1.jpg",
+        "https://a.d-cd.net/9e8f36es-1920.jpg"
+      ]
+    },
+    {
+      "category": 2,
+      "name": "Рабат и Вардзия",
+      "photos": [
+        "https://i.ytimg.com/vi/3YP2tzjhNvI/maxresdefault.jpg",
+        "http://medassist.telemark-it.ru/upload/medialibrary/588/Rabati_Fortress_in_Akhaltsikhe,_Georgia1.jpg",
+        "https://7d9e88a8-f178-4098-bea5-48d960920605.selcdn.net/693c1f98-03ef-4e2d-912a-c94e4d98df50/-/resize/x833/-/quality/lighter/",
+        "https://lh3.googleusercontent.com/-ymEK8P3RPKg/VnMTxTqFOEI/AAAAAAAANf0/YFzVla-ZQfQ/w1247-h830-no/DSC08046.JPG"
+      ]
+    },
+    {
+      "category": 3,
+      "name": "Природа",
+      "photos": [
+        "https://vsegda-pomnim.com/uploads/posts/2022-04/1650927217_9-vsegda-pomnim-com-p-abkhaziya-gori-foto-9.jpg",
+        "https://kartinkin.net/uploads/posts/2022-03/1646528511_37-kartinkin-net-p-kartinki-abkhazii-40.jpg",
+        "https://sportishka.com/uploads/posts/2022-02/1645471542_1-sportishka-com-p-novii-afon-abkhaziya-turizm-krasivo-foto-1.jpg",
+        "https://sportishka.com/uploads/posts/2022-03/1646952712_1-sportishka-com-p-abkhaziya-nitstsa-turizm-krasivo-foto-1.jpg"
+      ]
+    },
+    {
+      "category": 4,
+      "name": "Горы",
+      "photos": [
+        "http://solenka.info/wp-content/uploads/2022/01/krim_57.jpg",
+        "https://tour.crimea.com/sites/default/files/field/blog/4-obyazatelno.jpg",
+        "https://sportishka.com/uploads/posts/2022-03/1646938086_10-sportishka-com-p-zubtsi-ai-petri-krim-turizm-krasivo-foto-10.jpg",
+        "https://vsegda-pomnim.com/uploads/posts/2022-04/1650918827_19-vsegda-pomnim-com-p-demerdzhi-alushta-gora-foto-21.jpg"
+      ]
+    },
+    {
+      "category": 4,
+      "name": "Достопримечательности Крыма",
+      "photos": [
+        "https://class-tour.com/wp-content/uploads/9/b/c/9bcb11e7102a3658021bedc6cefabb2c.jpeg",
+        "https://static.tildacdn.com/tild3137-3639-4133-b738-626437333166/1625709295_44-phonot.jpg",
+        "https://img.privettur.ru/modules/image/src/images/cache/preview_850_37-680-425-d5629722.jpg?_=1621296663",
+        "https://webpulse.imgsmail.ru/imgpreview?mb=webpulse&key=lenta_admin-image-fb137ab0-0ef2-4205-be3d-c4461de6adcf"
+      ]
+    },
+    {
+      "category": 5,
+      "name": "Достопримечательности сочи",
+      "photos": [
+        "https://upload.tury.club/data/633b9fcbec567304c305422855d765e3/a5YfXfmj/kQKxBfYf.jpg",
+        "https://sportishka.com/uploads/posts/2022-04/thumbs/1650525545_67-sportishka-com-p-samie-izvestnie-dostoprimechatelnosti-soch-70.jpg",
+        "https://class-tour.com/wp-content/uploads/1/6/8/168016f9e3e23ede5c5453894fa1177d.jpeg",
+        "https://class-tour.com/wp-content/uploads/2/4/0/240b32d8787c3ab8497b238128991414.jpeg"
+      ]
+    },
+    {
+      "category": 5,
+      "name": "Роза Хутор",
+      "photos": [
+        "https://vse-ekskursii-sochi.ru/storage/tour-images/December2022/r8z7oXbB15AXc92BSz37.jpg",
+        "http://na-dache.pro/uploads/posts/2021-06/1623245987_21-p-foto-rasteniya-roza-khutor-zima-25.jpg",
+        "https://fb.ru/media/i/2/0/8/2/3/1/3/i/2082313.jpg",
+        "https://www.ski.ru/kohana/upload/ckfinder_images/u61174/images/2021-10-06-14-31-53.jpg"
       ]
     },
     {

@@ -9,3 +9,6 @@ root.render(
     <App />
   </React.StrictMode>,
 );
+
+/*Тренировочный сервер mockapi.io Все данные для этого сервера хранятся в 
+папке public => {} data.json */

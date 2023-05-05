@@ -38,7 +38,7 @@ function App() {
     /*6. Для пагинации дописываем page=${page}&limit=3& что значит, что при переходе
     по страницам, мы установили лимит в 3 объекта на странице. Пропишем page также в массиве зависимостей*/
     fetch(
-      `https://6450c944e1f6f1bb229ee7bd.mockapi.io/collections_photos?page=${page}&limit=8&${
+      `https://6450c944e1f6f1bb229ee7bd.mockapi.io/collections_photos?page=${page}&limit=4&${
         categoryId ? `category=${categoryId}` : ""
       }`
     )
@@ -105,7 +105,7 @@ function App() {
       <ul className="pagination">
         {/*Сделаем массив из 5 заглушечных элементов, проходимся по нему. В нем нету элементов
         но есть их индексы. Их и выводим начиная не с 0, а с 1*/}
-        {[...Array(5)].map((_, ind) => (
+        {[...Array(4)].map((_, ind) => (
           <li
             className={page === ind + 1 ? "active" : ""}
             onClick={() => setPage(ind + 1)}
